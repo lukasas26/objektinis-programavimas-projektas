@@ -1,0 +1,30 @@
+BusTicket,Klaipeda - Siauliai,10.0,SeniorPassenger,-,-
+BusTicket,Kaunas - Klaipeda,10.0,SeniorPassenger,-,-
+BusTicket,Vilnius - Kaunas,10.0,StudentPassenger,-,-
+BusTicket,Vilnius - Kaunas,10.0,SeniorPassenger,-,-
+BusTicket,Kaunas - Klaipeda,10.0,SeniorPassenger,-,-
+BusTicket,Vilnius - Kaunas,10.0,AdultPassenger,-,-
+BusTicket,Kaunas - Vilnius,10.0,AdultPassenger,-,-
+BusTicket,Kaunas - Palanga,24.0,AdultPassenger,-,-
+BusTicket,Kaunas - Klaipeda,10.0,AdultPassenger,-,-
+TrainTicket,Kaunas - Siauliai,10.0,AdultPassenger,-,-
+TrolleybusTicket,Kaunas - Vilnius,8.5,AdultPassenger,-,-
+TrolleybusTicket,Kaunas - Siauliai,12.0,StudentPassenger,-,-
+TrolleybusTicket,Kaunas - Siauliai,12.0,StudentPassenger,-,-
+TrainTicket,Kaunas - Vilnius,8.0,AdultPassenger,-,-
+BusTicket,Vilnius - Palanga,10.0,AdultPassenger,-,-
+BusTicket,vilnius - kaunas,67.0,AdultPassenger,-,-
+BusTicket,Kaunas - KLP,10.0,StudentPassenger,-,-
+BusTicket,Palanga - KLP,10.0,AdultPassenger,-,-
+BusTicket,Klaipeda - Siauliai,24.0,AdultPassenger,-,-
+BusTicket,Kaunas - Vilnius,10.0,AdultPassenger,lukas11,lukas11
+BusTicket,Kaunas - Vilnius,10.0,StudentPassenger,likas22,likas22
+BusTicket,Kaunas - SLN,15.0,SeniorPassenger,likas22,likas22
+TrainTicket,Vilnius - Klaipeda,6.0,StudentPassenger,Mykolas,kristupas22
+TrolleybusTicket,Kaunas - Panevezys,10.0,SeniorPassenger,likas22,likas22
+BusTicket,Kaunas - Klaipeda,10.0,SeniorPassenger,likas22,likas22
+TrolleybusTicket,Kaunas - Vilnius,10.0,SeniorPassenger,lukas99,lukas99
+BusTicket,Kaunas - Vilnius,22.0,AdultPassenger,Algis Algauskas,lukas99
+TrainTicket,Klaipeda - Panevezys,15.0,AdultPassenger,lukas99,lukas99
+TrolleybusTicket,Kaunas - Klaipeda,10.0,SeniorPassenger,Meda Medislovaite,meda123
+BusTicket,Kaunas - KLP,10.0,SeniorPassenger,meda123,meda123
